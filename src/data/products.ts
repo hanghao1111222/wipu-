@@ -114,5 +114,3 @@ export const products: Product[] = [
     currency: 'JPY'
   }
 ];
-
-// 你可以在这里添加更多产品
